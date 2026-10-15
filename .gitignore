@@ -1,0 +1,6 @@
+# Made by tools/prepare_build.sh from the official firmware, and by make.
+sysroot/
+build/
+core/dft_tables.c
+include/dft_tables.h
+__pycache__/
